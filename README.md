@@ -1,5 +1,4 @@
 # Substrate Runtime Fuzzer
-_Reviewed in Dec-2023_
 
 `substrate-runtime-fuzzer` is a [substrate](https://github.com/paritytech/substrate) runtime fuzzing harness continuously developed at [SRLabs](https://srlabs.de) since 2020. 
 
@@ -42,3 +41,5 @@ You can take inspiration from the genesis configuration of the [kitchensink fuzz
 Substrate Runtime Fuzzer is primarily distributed under the terms of both the MIT license and the Apache License (Version 2.0).
 
 See [LICENSE-APACHE](LICENSE-APACHE) and [LICENSE-MIT](LICENSE-MIT) for details.
+
+_Reviewed in Dec-2023 by AppSec, Engineering, and EcoDev_
