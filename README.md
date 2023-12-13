@@ -1,4 +1,5 @@
 # Substrate Runtime Fuzzer
+_Reviewed in Dec-2023_
 
 `substrate-runtime-fuzzer` is a [substrate](https://github.com/paritytech/substrate) runtime fuzzing harness continuously developed at [SRLabs](https://srlabs.de) since 2020. 
 
